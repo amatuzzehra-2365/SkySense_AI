@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Project specific
+.env
+venv/
+data/raw/
+*.pkl
+*.pt
+.ipynb_checkpoints/
+.vscode/
